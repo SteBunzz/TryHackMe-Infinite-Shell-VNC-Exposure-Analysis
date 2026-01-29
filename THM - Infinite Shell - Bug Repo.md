@@ -144,7 +144,8 @@ Jan 28
 - Suggests exposure may be unintentional or infrastructure-related
 
 ---
-# 🛟 Intended Challenge Path (Context)
+# ⚠️ SPOILER ALERT
+Intended Challenge Path (Context)
 - The official solution path involved:
 	- Apache log analysis
 	- Detection of Base64-encoded payloads
